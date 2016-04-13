@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1429884691 source:/home/yeshukai/桌面/count/ye/main.cpp
+	<fstream>
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
